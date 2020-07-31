@@ -1,3 +1,6 @@
+# Colab化改造中 本家参照のこと。
+
+
 # [Sketch Simplification](https://esslab.jp/~ess/research/sketch/)
 
 ![Example result](/example_fig01_eisaku.png?raw=true "Example result of the provided model.")
